@@ -1,5 +1,5 @@
 package use_case.logout;
-import data_access.DBUserDataAccessObject;
+
 /**
  * The Logout Interactor.
  */
